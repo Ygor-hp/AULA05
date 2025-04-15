@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d8dc6147-e054-40c8-85ee-0316ca813347" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arquivo03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arquivo04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arquivo03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arquivo03.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,9 @@
   "associatedIndex": 7
 }]]></component>
   <component name="ProjectId" id="2vlPzUQ5gE3q46PamPohDTbldiH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,6 +39,7 @@
     "Python.Arquivo01.executor": "Run",
     "Python.Arquivo02.executor": "Run",
     "Python.Arquivo03.executor": "Run",
+    "Python.Arquivo04.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main"
